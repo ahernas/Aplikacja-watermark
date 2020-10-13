@@ -1,0 +1,12 @@
+{
+  "name": "Aplikacja-watermark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ahernas/Aplikacja-watermark.git",
+  "author": "Anna Garczarek <ania.garczarek@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
